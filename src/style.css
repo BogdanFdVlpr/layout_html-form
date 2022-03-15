@@ -1,1 +1,17 @@
 /* styles go here */
+.form-field {
+  display: block;
+  padding-bottom: 10px;
+}
+
+.lastForm {
+  padding-bottom: 0;
+}
+
+.block {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px 0;
+}
