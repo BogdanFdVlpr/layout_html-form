@@ -4,12 +4,12 @@
   padding-bottom: 10px;
 }
 
-.question-about__cats {
-  padding-bottom: 10px;
+.form-field:last-child {
+  padding-bottom: 0;
 }
 
-.lastForm {
-  padding-bottom: 0;
+.question-about__cats {
+  padding-bottom: 10px;
 }
 
 .block {
